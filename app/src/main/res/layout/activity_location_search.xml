@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    tools:context="com.hosung.note.noteandapp.LocationSearchActivity">
+
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar_search_location"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="?attr/colorPrimary"
+            app:popupTheme="@style/AppTheme.PopupOverlay">
+
+            <Button
+                android:id="@+id/btnNoItem"
+                android:layout_width="50dp"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="No"
+                android:layout_gravity="left"
+                android:background="?attr/colorPrimary"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Location Change"
+                android:layout_gravity="center"
+                android:id="@+id/toolbar_search_location_title"
+                android:textStyle="bold"
+                android:textColor="@android:color/white"
+                android:textSize="20sp"/>
+
+            <Button
+                android:id="@+id/btnYesItem"
+                android:layout_width="50dp"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:layout_marginRight="15dp"
+                android:layout_gravity="right"
+                android:text="Yes"
+                android:background="?attr/colorPrimary"/>
+
+        </android.support.v7.widget.Toolbar>
+
+    </android.support.design.widget.AppBarLayout>
+
+    <include layout="@layout/content_location_search" />
+
+</android.support.design.widget.CoordinatorLayout>

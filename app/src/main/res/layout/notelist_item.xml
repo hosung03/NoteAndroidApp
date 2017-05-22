@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:paddingBottom="2dp">
+
+    <ImageView
+        android:id="@+id/ivThumbnail"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_margin="5dp"
+        android:backgroundTint="#efefef"/>
+
+    <LinearLayout
+        android:id="@+id/llNoteListItem"
+        android:layout_width="0dp"
+        android:layout_height="80dp"
+        android:orientation="vertical"
+        android:padding="2dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_weight="1">
+
+        <TextView
+            android:id="@+id/lbNote"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="(New Note)"
+            android:textSize="20sp"
+            android:layout_marginTop="10dp"/>
+
+        <TextView
+            android:id="@+id/lbLocation"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:textSize="16sp"/>
+
+    </LinearLayout>
+    <RelativeLayout
+        android:id="@+id/rlDeleteButton"
+        android:layout_width="60dp"
+        android:layout_height="80dp"
+        android:visibility="gone">
+        <Button
+            android:id="@+id/btnDeleteItem"
+            android:text="DEL"
+            android:textSize="18sp"
+            android:layout_width="60dp"
+            android:layout_height="50dp"
+            android:layout_centerVertical="true"/>
+    </RelativeLayout>
+</LinearLayout>
