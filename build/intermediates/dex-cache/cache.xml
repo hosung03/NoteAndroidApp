@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/GitHub/NoteAndroidApp/NoteAndroidApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bac56ccac41265d762a3c44984b9926d533e9a3e">
+        <dex dex="/GitHub/NoteAndroidApp/NoteAndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_8a5cee4df60981af677a70f53bc6d874ed58eec3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/GitHub/NoteAndroidApp/NoteAndroidApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/GitHub/NoteAndroidApp/NoteAndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_2068c19b145849b38cf33c8dd468145fb9d471a0/classes.dex" />
+    </item>
+
+</items>
