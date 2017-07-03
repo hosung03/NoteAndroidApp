@@ -5,8 +5,8 @@
 This is a personal prject for implementing a note Android app. with image or photo 
 
 - Note List
-- Note attached a Image or Photo
-- Note Attached Location Information 
+- Note attached a Photo from Gallay or Camera
+- Note attached Location Information 
 
 ## Screenshot
 
