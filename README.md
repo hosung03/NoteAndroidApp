@@ -2,11 +2,11 @@
 
 ## Features
 
-This is a personal prject for implementing a note Android app. with image or photo 
+This is a personal project for implementing a note Android app. with a photo and location information  
 
-- Note List
-- Note attached a Photo from Gallay or Camera
-- Note attached Location Information 
+- Note List with Add / Edit (Delete)
+- Add a Photo from Gallay or Camera to a Note
+- Add Location Information to a Note
 
 ## Screenshot
 
