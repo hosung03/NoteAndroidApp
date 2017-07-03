@@ -7,6 +7,7 @@ This is a personal project for implementing a note Android app. with a photo and
 - Note List with Add / Edit (Delete)
 - Add a Photo from Gallay or Camera to a Note
 - Add Location Information to a Note
+- Save a Note to a SQLLite DB
 
 ## Screenshot
 
