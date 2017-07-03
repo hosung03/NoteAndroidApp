@@ -9,87 +9,19 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="67b7e42e-7e6d-4188-9bc3-ad86b91c8842" name="Default" comment="update compile l">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/animated_vector_drawable_25_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/appcompat_v7_25_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/design_25_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/mediarouter_v7_25_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/palette_v7_25_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/recyclerview_v7_25_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/support_annotations_25_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/support_compat_25_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/support_core_ui_25_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/support_core_utils_25_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/support_fragment_25_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/support_media_compat_25_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/support_v4_25_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/support_vector_drawable_25_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/transition_25_3_1.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/animated_vector_drawable_25_0_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/appcompat_v7_25_0_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/design_25_0_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/mediarouter_v7_22_0_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/recyclerview_v7_25_0_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/support_annotations_25_0_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/support_compat_25_0_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/support_core_ui_25_0_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/support_core_utils_25_0_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/support_fragment_25_0_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/support_media_compat_25_0_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/support_v4_25_0_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/support_vector_drawable_25_0_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/transition_25_0_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-22-08-37-31-573.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-22-08-51-54-810.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-22-08-52-00-471.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-22-08-59-44-931.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-22-09-00-13-016.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-22-11-24-31-770.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-22-11-24-37-220.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-22-11-24-51-939.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-05-22-11-26-21-920.rawproto" afterPath="" />
+    <list default="true" id="67b7e42e-7e6d-4188-9bc3-ad86b91c8842" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-03-10-47-15-227.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-03-10-48-50-561.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-03-10-48-52-474.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-03-10-53-17-283.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-03-10-53-21-471.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-03-10-54-11-500.rawproto" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileSnapshots.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/generated/mockable-android-25.jar" afterPath="$PROJECT_DIR$/build/generated/mockable-android-25.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/hamcrest_integration_1_3.xml" afterPath="$PROJECT_DIR$/.idea/libraries/hamcrest_integration_1_3.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/hamcrest_library_1_3.xml" afterPath="$PROJECT_DIR$/.idea/libraries/hamcrest_library_1_3.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/javawriter_2_1_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/javawriter_2_1_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/javax_annotation_api_1_2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/javax_annotation_api_1_2.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/javax_inject_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/javax_inject_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/play_services_7_5_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/play_services_7_5_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/play_services_ads_7_5_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/play_services_ads_7_5_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/play_services_analytics_7_5_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/play_services_analytics_7_5_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/play_services_appindexing_7_5_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/play_services_appindexing_7_5_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/play_services_appinvite_7_5_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/play_services_appinvite_7_5_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/play_services_appstate_7_5_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/play_services_appstate_7_5_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/play_services_base_7_5_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/play_services_base_7_5_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/play_services_cast_7_5_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/play_services_cast_7_5_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/play_services_drive_7_5_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/play_services_drive_7_5_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/play_services_fitness_7_5_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/play_services_fitness_7_5_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/play_services_games_7_5_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/play_services_games_7_5_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/play_services_gcm_7_5_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/play_services_gcm_7_5_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/play_services_identity_7_5_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/play_services_identity_7_5_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/play_services_location_7_5_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/play_services_location_7_5_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/play_services_maps_7_5_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/play_services_maps_7_5_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/play_services_nearby_7_5_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/play_services_nearby_7_5_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/play_services_panorama_7_5_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/play_services_panorama_7_5_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/play_services_plus_7_5_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/play_services_plus_7_5_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/play_services_safetynet_7_5_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/play_services_safetynet_7_5_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/play_services_wallet_7_5_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/play_services_wallet_7_5_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/play_services_wearable_7_5_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/play_services_wearable_7_5_0.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build.gradle" afterPath="$PROJECT_DIR$/app/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" />
     </list>
     <ignored path="NoteAndroidApp.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -1962,7 +1894,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="4496319040000" />
+        <entry key="$PROJECT_DIR$" value="4496322762000" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -2942,7 +2874,14 @@
       <option name="project" value="LOCAL" />
       <updated>1495466798488</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="update compile library and readme">
+      <created>1499094037030</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1499094037030</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TodoView">
@@ -3048,7 +2987,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init commit" />
     <MESSAGE value="source check" />
-    <option name="LAST_COMMIT_MESSAGE" value="source check" />
+    <MESSAGE value="update compile library and readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="update compile library and readme" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
